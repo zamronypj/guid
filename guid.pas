@@ -8,7 +8,6 @@
 
  @author Zamrony P. Juhara <zamronypj@yahoo.com>
 -----------------------------------------------}
-
 program guid;
 
 uses sysutils;
